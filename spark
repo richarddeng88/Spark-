@@ -1,0 +1,9 @@
+
+@@ check the spark version
+spark-submit --version
+
+spark-shell
+sc-version
+
+@@ where to find spark installation dir
+whereis spark 
